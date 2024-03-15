@@ -1,2 +1,2 @@
 # tic_tac_toe
-Simple tic-tac-toe game using python
+Simple tic-tac-toe game project using python
